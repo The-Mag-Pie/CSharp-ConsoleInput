@@ -7,6 +7,4 @@
  Every method is described in the mentioned file.
 
 # Important!
- This repository is not maintained.
- 
  Feel free to develop this project.
