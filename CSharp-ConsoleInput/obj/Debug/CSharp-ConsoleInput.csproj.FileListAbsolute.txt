@@ -1,0 +1,3 @@
+C:\Users\barte\OneDrive\Programowanie\GitHub\CSharp-ConsoleInput\CSharp-ConsoleInput\obj\Debug\CSharp-ConsoleInput.csproj.AssemblyReference.cache
+C:\Users\barte\OneDrive\Programowanie\GitHub\CSharp-ConsoleInput\CSharp-ConsoleInput\obj\Debug\CSharp-ConsoleInput.csproj.SuggestedBindingRedirects.cache
+C:\Users\barte\OneDrive\Programowanie\GitHub\CSharp-ConsoleInput\CSharp-ConsoleInput\obj\Debug\CSharp-ConsoleInput.csproj.CoreCompileInputs.cache

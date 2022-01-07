@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e01c261e-471f-40ab-bbea-a71a05b81281": {
+      "ProjectGuid": "e01c261e-471f-40ab-bbea-a71a05b81281",
+      "DisplayName": "CSharp-ConsoleInput",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
