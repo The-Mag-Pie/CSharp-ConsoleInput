@@ -32,7 +32,7 @@ namespace CSharp_ConsoleInput
                     }
                     catch
                     {
-                        Console.WriteLine("Niepoprawna liczba. Podaj jeszcze raz:");
+                        Console.WriteLine("Wrong number. Enter again: ");
                         return GetInt();
                     }
                 }
@@ -72,7 +72,7 @@ namespace CSharp_ConsoleInput
             }
             else
             {
-                Console.WriteLine("Niepoprawna liczba. Podaj jeszcze raz: ");
+                Console.WriteLine("Wrong number. Enter again: ");
                 return GetInt(start, end);
             }
         }
@@ -123,7 +123,7 @@ namespace CSharp_ConsoleInput
                     }
                     catch
                     {
-                        Console.WriteLine("Niepoprawna liczba. Podaj jeszcze raz:");
+                        Console.WriteLine("Wrong number. Enter again: ");
                         stack = new Stack<char>();
                         point = false;
                         continue;
@@ -163,7 +163,7 @@ namespace CSharp_ConsoleInput
             string text = Console.ReadLine();
             if (text.Equals(""))
             {
-                Console.WriteLine("Puste dane. Podaj jeszcze raz.");
+                Console.WriteLine("Empty data. Enter again: ");
                 return GetString();
             }
             else
